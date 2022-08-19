@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Moiseis-Cruz
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... trabalhar na área de Desenvolvimento WEB: Front End
 - 🌱 I’m currently learning ... Desenvolvimento WEB: Front End
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... e-mail: moizzito@gmail.com
